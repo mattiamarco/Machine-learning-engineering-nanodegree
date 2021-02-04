@@ -1,3 +1,3 @@
-# Machine-learning-engineering-nanodegree
+# Sentiment Analysis Deployment using AWS SageMaker
 
-This is a repository for the pojects I am completing as part of the Udacity Nanodegree on Machine Learning Engineering
+Sentiment Analysis Web App is a completed notebook and collection of Python files. The result is a deployed RNN performing sentiment analysis on movie reviews complete with publicly accessible API and a simple web page which interacts with the deployed endpoint.
